@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-make-concoction",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Adds postBuild step for production that will output a [your-app-modulePrefix]-concoction.txt file.",
   "directories": {
     "doc": "doc",
     "test": "tests"
