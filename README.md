@@ -46,10 +46,11 @@ results of postBuild step in an ember-cli add-on. Advice or a pull request welco
 
 ## Credits
 
-Originally developed by Walter Mcginnis (https://github.com/walter).
+Originally developed by [Walter Mcginnis](https://github.com/walter).
 
 This ember-cli add-on was built as a part of widget work for http://askthem.io.
 
 It's based on code from https://gist.github.com/novaugust/9d0133588fc29844afaf
 and https://github.com/heyjinkim/ember-cli-index-fragment/blob/master/index.js.
+
 Thanks to the Ember.js, ember-cli, and Broccoli teams for excellent work.
