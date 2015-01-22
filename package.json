@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-make-concoction",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Adds postBuild step for production that will output a [your-app-modulePrefix]-concoction.txt file.",
   "directories": {
     "doc": "doc",
@@ -15,7 +15,7 @@
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Walter McGinnis <web@mars-hq.com>",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.0.0",
