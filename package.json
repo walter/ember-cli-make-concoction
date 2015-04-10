@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-make-concoction",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Adds postBuild step for production that will output a [your-app-modulePrefix]-concoction.txt file.",
   "directories": {
     "doc": "doc",
